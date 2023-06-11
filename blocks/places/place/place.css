@@ -1,5 +1,10 @@
 .place {
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-template-rows: auto auto;
+  margin: 0 148px 80px 148px;
+  display: flex;
+  flex-direction: column;
+  max-width: 984px;
+}
+
+.place:last-child {
+  margin-bottom: 0;
 }

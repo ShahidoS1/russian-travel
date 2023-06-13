@@ -4,3 +4,12 @@
   display: flex;
   justify-content: space-between;
 }
+
+
+@media (max-width: 1073px) {
+
+  .footer {
+    margin: 0 24px 24px;
+  }
+
+}

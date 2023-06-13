@@ -8,3 +8,22 @@
   text-transform: uppercase;
   margin-bottom: 92px;
 }
+
+
+@media (max-width: 1023px) {
+
+  .lead__camption {
+    margin-left: 24px;
+    margin-bottom: 88px;
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  .lead__camption {
+    margin-left: 16px;
+    margin-bottom: 64px;
+  }
+
+}

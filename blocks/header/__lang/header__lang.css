@@ -1,3 +1,29 @@
 .header__lang {
   padding-top: 18px;
+  margin-left: 931px;
+  display: flex;
+}
+
+@media (max-width: 1279px) {
+
+  .header__lang {
+    margin-left: 675px;
+  }
+
+}
+
+@media (max-width: 1023px) {
+
+  .header__lang {
+    margin-left: 467px;
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  .header__lang {
+    margin-left: 84px;
+  }
+
 }

@@ -1,4 +1,7 @@
 .header__lang-link {
+  margin: 0;
+  padding: 0;
+  margin-right: 18px;
   text-decoration: none;
   color: #fff;
   font-size: 24px;
@@ -8,4 +11,18 @@
 
 .header__lang-link:hover {
   opacity: 0.8;
+}
+
+.header__lang-link:last-child {
+  margin-right: 0;
+}
+
+
+@media (max-width: 767px) {
+
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+
 }

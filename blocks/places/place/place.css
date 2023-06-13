@@ -1,4 +1,6 @@
 .place {
+  margin: 0;
+  padding: 0;
   margin: 0 148px 80px 148px;
   display: flex;
   flex-direction: column;
@@ -7,4 +9,29 @@
 
 .place:last-child {
   margin-bottom: 0;
+}
+
+
+@media (max-width: 1279px) {
+
+  .place {
+    margin:0 48px 80px;
+  }
+
+}
+
+@media (max-width: 1023px) {
+
+  .place {
+    margin: 0 24px 73px;
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  .place{
+    margin:0 0 50px;
+  }
+
 }

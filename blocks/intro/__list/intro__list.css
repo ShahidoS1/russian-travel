@@ -4,3 +4,20 @@
   list-style-type: none;
   margin-bottom: 92px;
 }
+
+
+@media (max-width: 1023px) {
+
+  .intro__list {
+    margin-bottom: 88px;
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  .intro__list {
+    margin-bottom: 64px;
+  }
+
+}

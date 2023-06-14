@@ -19,6 +19,6 @@
 * для блоков использовать как ФЛЕКС так и "ГРИДЫ",
 * после окончания вёрстки, все адаптивные размеры проверялись мною через PIXEL Perfect.
 
-**[Сам сайт ПОЛНОСТЬЮ](https://shahidos1.github.io/russian-travel/)**
+**[Сам сайт ПОЛНОСТЬЮ](https://shahidos1.github.io/russian-travel/){:target="_blank"}**
 
 

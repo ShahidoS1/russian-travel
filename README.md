@@ -19,6 +19,6 @@
 * для блоков использовать как ФЛЕКС так и "ГРИДЫ",
 * после окончания вёрстки, все адаптивные размеры проверялись мною через PIXEL Perfect.
 
-**[Сам сайт ПОЛНОСТЬЮ](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)**
+**[Сам сайт ПОЛНОСТЬЮ](https://shahidos1.github.io/russian-travel/)**
 
 

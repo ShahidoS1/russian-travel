@@ -10,3 +10,13 @@
 .place__website_link:hover {
   opacity: 0.8;
 }
+
+
+@media (max-width: 767px) {
+
+  .place__website_link {
+    max-width: 288px;
+    height: 44px;
+  }
+
+}

@@ -21,3 +21,12 @@
   }
 
 }
+
+@media (max-width: 767px) {
+
+  .place__image-item {
+    width: 320px;
+    height: 320px;
+  }
+
+}

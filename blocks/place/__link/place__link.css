@@ -16,7 +16,7 @@
 
   .place__link {
     max-width: 288px;
-    height: 44px;
+    margin-bottom: 32px;
   }
 
 }

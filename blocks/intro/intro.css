@@ -1,5 +1,5 @@
 .intro {
-  width: 690px;
+  max-width: ;width: 690px;
   margin: 0 auto 0 148px;
   display: flex;
   flex-direction: column;
@@ -18,7 +18,7 @@
 
   .intro {
     margin-left: 24px;
-    width: 720px;
+    max-width: 720px;
   }
 
 }
@@ -27,7 +27,7 @@
 
   .intro {
     margin-left: 16px;
-    width: 288px;
+    max-width: 288px;
   }
 
 }

@@ -3,30 +3,15 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
-  margin: 245px 312px 32px 312px;
-}
-
-
-@media (max-width: 1279px) {
-
-  .cover__title {
-    margin: 195px 232px 32px 232px;
-  }
+  margin: 0 0 32px;
 
 }
 
-@media (max-width: 1023px) {
-
-  .cover__title {
-    margin: 104px 115px 32px 104px;
-  }
-
-}
 
 @media (max-width: 767px) {
 
   .cover__title {
-    margin: 33px 16px 16px 16px;
+    margin-bottom: 16px;
     font-size: 32px;
     line-height: 35px;
   }

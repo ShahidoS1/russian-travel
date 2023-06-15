@@ -1,6 +1,5 @@
 .lead__camption {
   margin: 0;
-  min-width: 158px;
   font-size: 10px;
   line-height: 14px;
   font-weight: 400;
@@ -13,7 +12,7 @@
 @media (max-width: 1023px) {
 
   .lead__camption {
-    margin-left: 24px;
+    padding-left: 24px;
     margin-bottom: 88px;
   }
 
@@ -22,7 +21,7 @@
 @media (max-width: 767px) {
 
   .lead__camption {
-    margin-left: 16px;
+    padding-left: 16px;
     margin-bottom: 64px;
   }
 

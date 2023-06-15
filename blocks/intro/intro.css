@@ -1,6 +1,6 @@
 .intro {
-  max-width: 690px;
-  margin: 0 auto 0 148px;
+  max-width: 984px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
 }
@@ -9,7 +9,7 @@
 @media (max-width: 1279px) {
 
   .intro {
-    margin-left: 48px;
+    max-width: 928px;
   }
 
 }
@@ -17,8 +17,10 @@
 @media (max-width: 1023px) {
 
   .intro {
-    margin-left: 24px;
-    max-width: 720px;
+    max-width: 768px;
+    padding-left: 24px;
+    padding-right: 24px;
+
   }
 
 }
@@ -26,8 +28,9 @@
 @media (max-width: 767px) {
 
   .intro {
-    margin-left: 16px;
-    max-width: 288px;
+    padding-left: 16px;
+    padding-right: 16px;
+    max-width: 320px;
   }
 
 }

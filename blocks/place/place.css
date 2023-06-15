@@ -1,6 +1,6 @@
 .place {
   padding: 0;
-  margin: 0 148px 80px;
+  margin: 0 auto 80px;
   display: flex;
   flex-direction: column;
   max-width: 984px;
@@ -14,7 +14,8 @@
 @media (max-width: 1279px) {
 
   .place {
-    margin:0 48px 80px;
+    max-width: 928px;
+    margin-bottom: 80px;
   }
 
 }
@@ -22,7 +23,8 @@
 @media (max-width: 1023px) {
 
   .place {
-    margin: 0 24px 73px;
+    max-width: 720px;
+    margin-bottom: 73px;
   }
 
 }
@@ -30,7 +32,8 @@
 @media (max-width: 767px) {
 
   .place{
-    margin:0 0 50px;
+    max-width: 320px;
+    margin-bottom: 50px;
   }
 
 }

@@ -1,5 +1,6 @@
 .cover {
   max-width: 1184px;
+  margin: 0 auto;
   padding: 0 48px;
   margin-bottom: 92px;
 }
@@ -8,6 +9,7 @@
 @media (max-width: 1279px) {
 
   .cover {
+    max-width: 928px;
     padding: 0;
   }
 
@@ -16,6 +18,7 @@
 @media (max-width: 1073px) {
 
   .cover {
+    max-width: 720px;
     margin-bottom: 88px;
   }
 
@@ -24,6 +27,7 @@
 @media (max-width: 767px) {
 
   .cover {
+    max-width: 288px;
     margin-bottom: 64px;
   }
 

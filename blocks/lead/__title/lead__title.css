@@ -8,20 +8,10 @@
 }
 
 
-@media (max-width: 1023px) {
-
-  .lead__title {
-    margin-left: 24px;
-    margin-right: 24px;
-  }
-
-}
-
 @media (max-width: 767px) {
 
   .lead__title {
-    margin-left: 18px;
-    margin-right: 14px;
+
     margin-bottom: 16px;
     font-size: 40px;
     line-height: 44px;

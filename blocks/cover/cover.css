@@ -9,16 +9,16 @@
 @media (max-width: 1279px) {
 
   .cover {
-    max-width: 928px;
+    max-width: 1024px;
     padding: 0;
   }
 
 }
 
-@media (max-width: 1073px) {
+@media (max-width: 1023px) {
 
   .cover {
-    max-width: 720px;
+    max-width: 768px;
     margin-bottom: 88px;
   }
 
@@ -27,7 +27,7 @@
 @media (max-width: 767px) {
 
   .cover {
-    max-width: 288px;
+    max-width: 320px;
     margin-bottom: 64px;
   }
 
